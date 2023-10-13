@@ -1,0 +1,221 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../../assets/fonts/flaticon.ttf?d12c95950a03e0e5fd0c1b8ad3d73792") format("truetype"),
+url("../../assets/fonts/flaticon.woff?d12c95950a03e0e5fd0c1b8ad3d73792") format("woff"),
+url("../../assets/fonts/flaticon.woff2?d12c95950a03e0e5fd0c1b8ad3d73792") format("woff2"),
+url("../../assets/fonts/flaticon.eot?d12c95950a03e0e5fd0c1b8ad3d73792#iefix") format("embedded-opentype"),
+url("../../assets/fonts/flaticon.svg?d12c95950a03e0e5fd0c1b8ad3d73792#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-percentage:before {
+    content: "\f101";
+}
+.flaticon-pie-chart:before {
+    content: "\f102";
+}
+.flaticon-analytics:before {
+    content: "\f103";
+}
+.flaticon-fluctuation:before {
+    content: "\f104";
+}
+.flaticon-calculator:before {
+    content: "\f105";
+}
+.flaticon-contract:before {
+    content: "\f106";
+}
+.flaticon-buy:before {
+    content: "\f107";
+}
+.flaticon-auction:before {
+    content: "\f108";
+}
+.flaticon-point-of-service:before {
+    content: "\f109";
+}
+.flaticon-archives:before {
+    content: "\f10a";
+}
+.flaticon-analytics-1:before {
+    content: "\f10b";
+}
+.flaticon-sell:before {
+    content: "\f10c";
+}
+.flaticon-target:before {
+    content: "\f10d";
+}
+.flaticon-newspaper:before {
+    content: "\f10e";
+}
+.flaticon-donation:before {
+    content: "\f10f";
+}
+.flaticon-loss:before {
+    content: "\f110";
+}
+.flaticon-bank:before {
+    content: "\f111";
+}
+.flaticon-apple:before {
+    content: "\f112";
+}
+.flaticon-linkedin:before {
+    content: "\f113";
+}
+.flaticon-phone-call:before {
+    content: "\f114";
+}
+.flaticon-location-pin:before {
+    content: "\f115";
+}
+.flaticon-web:before {
+    content: "\f116";
+}
+.flaticon-calendar:before {
+    content: "\f117";
+}
+.flaticon-check-mark:before {
+    content: "\f118";
+}
+.flaticon-email:before {
+    content: "\f119";
+}
+.flaticon-star:before {
+    content: "\f11a";
+}
+.flaticon-cheque:before {
+    content: "\f11b";
+}
+.flaticon-twitter:before {
+    content: "\f11c";
+}
+.flaticon-instagram:before {
+    content: "\f11d";
+}
+.flaticon-facebook:before {
+    content: "\f11e";
+}
+.flaticon-oil:before {
+    content: "\f11f";
+}
+.flaticon-bar-chart:before {
+    content: "\f120";
+}
+.flaticon-abacus:before {
+    content: "\f121";
+}
+.flaticon-book:before {
+    content: "\f122";
+}
+.flaticon-time-is-money:before {
+    content: "\f123";
+}
+.flaticon-shield:before {
+    content: "\f124";
+}
+.flaticon-atm:before {
+    content: "\f125";
+}
+.flaticon-money:before {
+    content: "\f126";
+}
+.flaticon-analytics-2:before {
+    content: "\f127";
+}
+.flaticon-briefcase:before {
+    content: "\f128";
+}
+.flaticon-search:before {
+    content: "\f129";
+}
+.flaticon-levels:before {
+    content: "\f12a";
+}
+.flaticon-pin-code:before {
+    content: "\f12b";
+}
+.flaticon-loss-1:before {
+    content: "\f12c";
+}
+.flaticon-withdraw:before {
+    content: "\f12d";
+}
+.flaticon-money-1:before {
+    content: "\f12e";
+}
+.flaticon-exchange:before {
+    content: "\f12f";
+}
+.flaticon-user:before {
+    content: "\f130";
+}
+.flaticon-playstore:before {
+    content: "\f131";
+}
+.flaticon-right-arrow:before {
+    content: "\f132";
+}
+.flaticon-down-arrow:before {
+    content: "\f133";
+}
+.flaticon-left-quote:before {
+    content: "\f134";
+}
+.flaticon-wallet:before {
+    content: "\f135";
+}
+.flaticon-money-bag:before {
+    content: "\f136";
+}
+.flaticon-balance:before {
+    content: "\f137";
+}
+.flaticon-profits:before {
+    content: "\f138";
+}
+.flaticon-gold-ingot:before {
+    content: "\f139";
+}
+.flaticon-presentation:before {
+    content: "\f13a";
+}
+.flaticon-businessman:before {
+    content: "\f13b";
+}
+.flaticon-businessman-1:before {
+    content: "\f13c";
+}
+.flaticon-chat:before {
+    content: "\f13d";
+}
+.flaticon-bar-chart-1:before {
+    content: "\f13e";
+}
+.flaticon-purse:before {
+    content: "\f13f";
+}
+.flaticon-id-card:before {
+    content: "\f140";
+}
+.flaticon-payment-method:before {
+    content: "\f141";
+}
+.flaticon-money-2:before {
+    content: "\f142";
+}
+.flaticon-safebox:before {
+    content: "\f143";
+}
